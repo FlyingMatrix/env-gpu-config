@@ -1,2 +1,2 @@
-# GPU Configuration
-A python implementation for printing out information on GPU configuration
+# Env GPU Config
+A Python utility for displaying detailed GPU configuration and system information.
